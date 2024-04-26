@@ -1,3 +1,4 @@
+
 getgenv().Stats = {-- Name, Rebcap, Statcap, Play Solo ONLY?
     {"withPhosy", math.huge, math.huge, false}, 
     {"withPhosy", math.huge, math.huge, false},
